@@ -1,0 +1,10 @@
+!help - Displays all commands available
+
+!anthera - Displays a greeting message whenever triggered, cycles through or randomized.
+!define - Current definition command, more google queries and less urban dictionary if possible
+!listing - Displays a list of all current server listings we are on
+!server - Displays the server IP
+!joke - Displays a randomized joke
+!info - Displays Anthera social network links, website, youtube, twitter etc
+!stats - Stats for the chat
+
